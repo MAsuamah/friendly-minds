@@ -1,0 +1,23 @@
+{
+  "name": "friendly-minds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MAsuamah/friendly-minds.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MAsuamah/friendly-minds/issues"
+  },
+  "homepage": "https://github.com/MAsuamah/friendly-minds#readme",
+  "dependencies": {
+    "mongoose": "^5.12.14"
+  }
+}
