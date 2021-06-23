@@ -20,8 +20,8 @@ router
 
 router
   .route('/api/thoughts/:thoughtId/reactions')
-  .posst(addReaction)
+  .post(addReaction)
   .delete(removeReaction)
-  
+
 
 module.exports = router;
