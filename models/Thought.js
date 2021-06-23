@@ -1,7 +1,6 @@
 const { Schema, model, Types } = require('mongoose');
 const dateFormat = require('../utils/dateFormat');
 
-
 const ReactionSchema = new Schema(
   {
     // set custom id to avoid confusion with parent thought's _id field
