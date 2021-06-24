@@ -29,10 +29,10 @@ Routes and methods available for this app are:
   * DELETE http://localhost:3001/api/users/:userId/friends/:friendId to remove a friend from a user.
 * For Thoughts 
   * GET http://localhost:3001/api/thoughts to get all thoughts.
-  * GET http://localhost:3001/api/thoughts/:thoughtId' to get a thought by id.
+  * GET http://localhost:3001/api/thoughts/:thoughtId to get a thought by id.
   * POST http://localhost:3001/api/thoughts to add a thought.
-  * PUT http://localhost:3001/api/products/:thoughtId'to update a thought by id.
-  * DELETE http://localhost:3001/api/products/:thoughtId' to delete a thought by id.
+  * PUT http://localhost:3001/api/products/:thoughtId to update a thought by id.
+  * DELETE http://localhost:3001/api/products/:thoughtId to delete a thought by id.
 * For Reactions 
   * POST http://localhost:3001/api/thoughts/:thoughtId/reactions to add a reaction to a thought.
   * DELETE http://localhost:3001/api/thoughts/:thoughtId/reactions/:reactionId to delete a reaction from a thought.
