@@ -7,7 +7,7 @@ MongoDB is used to create the social network database. It uses collections and d
 ## How to Install
 * You will need to have MongoDB installed to use this app.
 * Clone this repository onto your local machine ([How to Clone a repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository)).
-* In your terminal `cd` into the root folder of the friendlly-minds.
+* In your terminal `cd` into the root folder of the friendly-minds.
 * While in the root folder, you must first run `npm install` to load all the dependencies needed for the app to run.
  
 ## How to Use
