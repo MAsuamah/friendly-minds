@@ -1,7 +1,7 @@
 # Friendly Minds
 
 ## Description
-This application is the backend portion of a Social Networking web applicaation named Friendly Minds. Users who use this app can share their thoughts, react to friends’ thoughts, and create a friend list. This app uses RESTful API routes to make requests. Express.js is used to create routes.
+This application is the backend portion of a Social Networking web application named Friendly Minds. Users who use this app can share their thoughts, react to friends’ thoughts, and create a friend list. This app uses RESTful API routes to make requests. Express.js is used to create routes.
 MongoDB is used to create the social network database. It uses collections and documents to create the Thought, Users, and Reactions Schemas. With this backend we are able to use GET, POST, PUT, and DELETE methods for the Schemas. 
 
 ## How to Install
